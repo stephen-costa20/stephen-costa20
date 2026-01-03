@@ -55,11 +55,12 @@ A browser-based, real-time particle morphing demo powered by **Three.js** and **
 ### 🔹 **HTML Template Library**
 A Django-backed catalog and API for storing, tagging, previewing, and managing reusable HTML/UI components. Includes a simple UI for browsing, a JSON API for integration, and file attachment support — ideal for internal tooling or component systems.  
 **Tech:** Django · Python · REST API · PostgreSQL (optional)
+⭐ Link: https://github.com/stephen-costa20/html-template-library
 
 ### 🔹 **Workflow Builder**
 A standalone, browser-only interactive workflow diagram editor built with SVG and vanilla JavaScript. Users can drag nodes, connect them with edges, attach files, and export/import workflows as JSON — all without a backend.  
-**Tech:** SVG · Tailwind CSS · Vanilla JavaScript  
-
+**Tech:** SVG · Tailwind CSS · Vanilla JavaScript
+⭐ Link: [https://github.com/stephen-costa20/html-template-library](https://github.com/stephen-costa20/workflow-builder)
 
 ## Where to Find Me
 
