@@ -2,17 +2,14 @@
      STEVE — GITHUB PROFILE
      ========================= -->
 
-<h1 align="left">Hey, I'm Steve 👋</h1>
+<h1 align="left">Hey, I'm Steve 👋. Welcome to my Page!</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@stephen.costa20"> <img alt="Medium" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?logo=medium&logoColor=white"/></a>
 </p>
 
-
-## Welcome to my Page!
-
-What kind of problems does Steve build software to solve?
+## What kind of problems does Steve build software to solve?
 
 I’m a lawyer-turned builder and consultant focused on designing AI-assisted software for legal and enterprise workflows, especially around contracts, approvals, and document-heavy processes. I spend much of my time building pragmatic systems in Django, stitching together modular apps, and exploring how AI can reduce friction in real legal operations—without turning the UX into a science experiment or a black box.
 
