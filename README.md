@@ -2,18 +2,18 @@
      STEVE — GITHUB PROFILE
      ========================= -->
 
-<h1 align="left">Hey, I'm Steve 👋. Welcome to my Page!</h1>
+<h1 align="left">Hey, I'm Steve 👋</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@stephen.costa20"> <img alt="Medium" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?logo=medium&logoColor=white"/></a>
 </p>
 
-## What kind of problems does Steve build software to solve?
+## Welcome to my Page!
 
-I’m a lawyer-turned builder and consultant focused on designing AI-assisted software for legal and enterprise workflows, especially around contracts, approvals, and document-heavy processes. I spend much of my time building pragmatic systems in Django, stitching together modular apps, and exploring how AI can reduce friction in real legal operations—without turning the UX into a science experiment or a black box.
+I’m a lawyer-turned-builder and consultant building software to solve the complexity of modern legal operations. I focus on designing AI-assisted systems for workflows that are traditionally slow and opaque—specifically contracts, approvals, and document-heavy processes.
 
-Outside of coding, I think a lot about product design, automation, and how to translate messy, real-world legal processes into software that’s clean, reliable, explainable, and scalable. I’m especially interested in where AI can augment judgment and workflow in legal teams, rather than replace it.
+I spend much of my time building pragmatic systems in Django, stitching together modular apps to reduce friction in these environments. Outside of coding, I treat product design as a problem-solving exercise: determining how to turn messy manual tasks into scalable software where AI augments legal judgment rather than replacing it.
 
 
 ## Things I code with
