@@ -10,14 +10,12 @@
 </p>
 
 
-
 ## Welcome to my Page!
 
 I’m a lawyer-turned builder and consultant focused on helping legal departments and enterprise teams simplify complex workflows with software—especially around contracts, approvals, and document-heavy processes. I spend a lot of time designing pragmatic systems in Django, stitching together modular apps, and exploring how AI can reduce friction in real operational workflows (without making the UX feel like a science project).
 
 When I’m not coding, I’m usually thinking about product design, automation, and how to turn “messy real-world process” into something clean, reliable, and scalable.
 
----
 
 ## Things I code with
 
@@ -34,7 +32,6 @@ When I’m not coding, I’m usually thinking about product design, automation, 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
----
 
 ## Play Ping Pong 🏓
 
@@ -45,17 +42,24 @@ When I’m not coding, I’m usually thinking about product design, automation, 
 **Click the GIF to play.**  
 Controls: Mouse/Touch • Pause: **P** • Restart: **R**
 
----
 
-## Open Source Projects
+## 🚀 Open Source Projects
 
-_([To be filled in later])_
+Here are a few highlighted projects from my GitHub that demonstrate real-world interaction, component tooling, and reusable systems design:
 
-- ⭐ Project Name — short, punchy one-liner
-- ⭐ Project Name — what it does + who it helps
-- ⭐ Project Name — key tech + highlight feature
+### 🔹 **Interactive Particle System**
+A browser-based, real-time particle morphing demo powered by **Three.js** and **MediaPipe Hands**. Users can interact with dynamically rendered particle shapes (Heart, Saturn, Flower, DNA Helix, Fireworks) using webcam-tracked hand gestures.  
+**Tech:** Three.js · WebGL · MediaPipe Hands · Tailwind CSS  
+⭐ Live Demo: https://stephen-costa20.github.io/interactive-particle-system/
 
----
+### 🔹 **HTML Template Library**
+A Django-backed catalog and API for storing, tagging, previewing, and managing reusable HTML/UI components. Includes a simple UI for browsing, a JSON API for integration, and file attachment support — ideal for internal tooling or component systems.  
+**Tech:** Django · Python · REST API · PostgreSQL (optional)
+
+### 🔹 **Workflow Builder**
+A standalone, browser-only interactive workflow diagram editor built with SVG and vanilla JavaScript. Users can drag nodes, connect them with edges, attach files, and export/import workflows as JSON — all without a backend.  
+**Tech:** SVG · Tailwind CSS · Vanilla JavaScript  
+
 
 ## Where to Find Me
 
