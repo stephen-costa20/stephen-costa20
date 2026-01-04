@@ -64,7 +64,8 @@ A standalone, browser-only interactive workflow diagram editor built with SVG an
 ## Where to Find Me
 
 <p align="left">
-  <a href="https://github.com/stephen-costa20"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@stephen.costa20"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-000000?logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/stephen-costa20"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@stephen.costa20"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-000000?logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/Stephen-costa20"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?logo=huggingface&logoColor=black"/></a>
 </p>
