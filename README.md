@@ -46,20 +46,20 @@ Controls: Mouse/Touch • Pause: **P** • Restart: **R**
 
 Here are a few highlighted projects from my GitHub that demonstrate real-world interaction, component tooling, and reusable systems design:
 
-### 🔹 **Interactive Particle System**
+### 🔹 **ParticlePlayground - Interactive Particle System**
 A browser-based, real-time particle morphing demo powered by **Three.js** and **MediaPipe Hands**. Users can interact with dynamically rendered particle shapes (Heart, Saturn, Flower, DNA Helix, Fireworks) using webcam-tracked hand gestures.  
 **Tech:** Three.js · WebGL · MediaPipe Hands · Tailwind CSS  
-⭐ Live Demo: [Click Here](https://stephen-costa20.github.io/interactive-particle-system/)
+⭐ Live Demo: [Click Here](https://github.com/stephen-costa20/ParticlePlayground)
 
-### 🔹 **HTML Template Library**
+### 🔹 **Templatron - HTML Template Library**
 A Django-backed catalog and API for storing, tagging, previewing, and managing reusable HTML/UI components. Includes a simple UI for browsing, a JSON API for integration, and file attachment support — ideal for internal tooling or component systems.  
 **Tech:** Django · Python · REST API · PostgreSQL (optional)  
-⭐ Link: [Click Here](https://github.com/stephen-costa20/html-template-library)
+⭐ Link: [Click Here](https://github.com/stephen-costa20/Templatron)
 
-### 🔹 **Workflow Builder**
+### 🔹 **FlowSmith - Workflow Builder**
 A standalone, browser-only interactive workflow diagram editor built with SVG and vanilla JavaScript. Users can drag nodes, connect them with edges, attach files, and export/import workflows as JSON — all without a backend.  
 **Tech:** SVG · Tailwind CSS · Vanilla JavaScript  
-⭐ Link: [Click Here](https://github.com/stephen-costa20/workflow-builder)
+⭐ Link: [Click Here](https://github.com/stephen-costa20/FlowSmith)
 
 ## Where to Find Me
 
